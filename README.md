@@ -1,0 +1,3 @@
+# Online-Retail-Customer-Segmentation-based-on-RFM
+Online Retail Customer Segmentation Machine Learning project
+The project aims to segment customers of an online retail business using machine learning techniques. It involves collecting and analyzing customer data, such as purchase history, demographics, and behavior. Using clustering algorithms, the project groups customers into distinct segments based on similarities in their purchasing patterns. These segments help the business tailor marketing strategies, improve customer service, and optimize product offerings. The goal is to enhance customer satisfaction, increase sales, and foster long-term loyalty by understanding and addressing the unique needs of each customer group.
